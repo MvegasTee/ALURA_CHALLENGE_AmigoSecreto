@@ -29,4 +29,4 @@ This project is ideal for developers looking to:
 
 ---
 
-Tnks for ALURA & Oracle for the oportunnyty and challenge to be implemented on thus ind of projects! 🎁
+Tnks Oracle for the oportunity! 🎁
