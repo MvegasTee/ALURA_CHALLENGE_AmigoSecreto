@@ -4,7 +4,6 @@ This interactive *Secret Friend* web game was developed as part of the **Alura C
 
 ## **Features**
 - **Simple & Intuitive UI**: A user-friendly interface to manage participants and the drawing process.
-- **Participant Management**: Easily add and remove friends from the Secret Santa list.
 - **Fair Randomization**: A secure and random draw to ensure every participant has a Secret Santa.
 - **Event Handling & DOM Manipulation**: Practical implementation of JavaScript events and DOM manipulation for a smooth user experience.
 
