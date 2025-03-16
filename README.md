@@ -1,6 +1,5 @@
-# ALURA_CHALLENGE_AmigoSecreto
-
-This interactive *Secret Friend* web game was developed as part of the **Alura Challenge**, using **HTML**, **CSS**, and **JavaScript**. The application allows a group of friends to randomly draw their Secret Santa, applying basic programming logic and effective array manipulation techniques.
+# ALURA CHALLENGE Amigo Secreto ⭕
+This interactive *Secret Friend* web project was developed as part of the **Alura Challenge**, using **HTML**, **CSS**, and **JavaScript**. The application allows a group of friends to randomly draw their Secret Santa, applying basic programming logic and effective array manipulation techniques.
 
 ## **Features**
 - **Simple & Intuitive UI**: A user-friendly interface to manage participants and the drawing process.
