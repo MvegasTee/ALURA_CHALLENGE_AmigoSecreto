@@ -16,9 +16,6 @@ This interactive *Secret Friend* web game was developed as part of the **Alura C
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/secret-santa-alura.git
-    ```
 2. **Open the project folder** and launch the `index.html` file in your browser.
 
 ## 📚 **Learning Goals**
